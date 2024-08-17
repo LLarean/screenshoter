@@ -7,6 +7,13 @@
       "dependencies": {},
       "hash": "2963e9e275f5d7cf17432f78827fba71ae79db57"
     },
+    "com.llarean.screenshoter": {
+      "version": "https://github.com/llarean/screenshoter.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a62f089c27c3b8fb893bd6f408bdddbe0822c102"
+    },
     "com.unity.2d.animation": {
       "version": "9.1.1",
       "depth": 1,
