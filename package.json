@@ -1,0 +1,25 @@
+{
+  "name": "com.llarean.screenshoter",
+  "displayName": "Screenshoter",
+  "version": "1.0.0",
+  "documentationUrl": "https://github.com/LLarean/screenshoter",
+  "changelogUrl": "https://github.com/llarean/screenshoter/releases",
+  "licensesUrl": "https://github.com/llarean/screenshoter/blob/master/LICENSE.md",
+  "description": "This package provides a simple utility for taking screenshots of a scene in Unity3D",
+  "samples": [
+    {
+      "displayName" : "Creating a screenshot",
+      "description" : "Creating a screenshot and displaying it in the UI",
+      "path" : "Samples~/MakeScreenhot"
+    }
+  ],
+  "keywords": [
+    "screenshoter",
+    "screenshot"
+  ],
+  "author": {
+  "name": "LLarean",
+  "email": "llarean@yandex.ru",
+  "url": "https://github.com/LLarean"
+  }
+}
