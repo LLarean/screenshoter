@@ -7,9 +7,9 @@ This package provides a simple utility for taking screenshots of a scene in Unit
 There are 3 ways to install this plugin:
 
 - import [Screenshoter.unitypackage](https://github.com/llarean/screenshoter/releases) via *Assets-Import Package*
-- clone/[download](https://github.com/llarean/screenshoter/archive/master.zip) this repository and move the *Plugins* folder to your Unity project's *Assets* folder
+- clone/[download](https://github.com/llarean/screenshoter/archive/master.zip) this repository and move the *Screenshoter.cs* file to your Unity project's *Assets* folder
 - *(via Package Manager)* Select Add package from git URL from the add menu. A text box and an Add button appear. Enter a valid Git URL in the text box:
-    - `"https://github.com/llarean/screenshoter.git"`
+    - `https://github.com/llarean/screenshoter.git`
 - *(via Package Manager)* add the following line to *Packages/manifest.json*:
     - `"com.llarean.screenshoter": "https://github.com/llarean/screenshoter.git",`
 
