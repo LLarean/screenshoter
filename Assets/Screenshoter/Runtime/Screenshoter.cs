@@ -43,7 +43,7 @@ namespace Utilities
         /// Creates a screenshot with the specified size and returns the Texture2D
         /// </summary>
         /// <param name="screenshotSize">The size of the screenshot being created</param>
-        public Texture2D GetScreenshotTexture(Vector2Int screenshotSize)
+        public Texture2D GetScreenshotTexture2D(Vector2Int screenshotSize)
         {
             EnablePhotoMode(screenshotSize);
             
